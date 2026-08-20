@@ -1,0 +1,501 @@
+case_id,is_candidate,label,dip_count,dip_indices
+0,0,Non-Candidate,0,[]
+1,0,Non-Candidate,0,[]
+2,0,Non-Candidate,1,[np.int64(545)]
+3,0,Non-Candidate,0,[]
+4,0,Non-Candidate,1,[np.int64(952)]
+5,1,Candidate,5,"[np.int64(78), np.int64(291), np.int64(497), np.int64(687), np.int64(902)]"
+6,0,Non-Candidate,1,[np.int64(617)]
+7,1,Candidate,2,"[np.int64(201), np.int64(626)]"
+8,0,Non-Candidate,1,[np.int64(343)]
+9,1,Candidate,6,"[np.int64(36), np.int64(191), np.int64(500), np.int64(656), np.int64(812), np.int64(974)]"
+10,0,Non-Candidate,0,[]
+11,0,Non-Candidate,0,[]
+12,0,Non-Candidate,0,[]
+13,1,Candidate,3,"[np.int64(212), np.int64(479), np.int64(743)]"
+14,0,Non-Candidate,0,[]
+15,1,Candidate,2,"[np.int64(446), np.int64(671)]"
+16,1,Candidate,2,"[np.int64(289), np.int64(665)]"
+17,0,Non-Candidate,0,[]
+18,1,Candidate,2,"[np.int64(342), np.int64(747)]"
+19,0,Non-Candidate,1,[np.int64(250)]
+20,1,Candidate,4,"[np.int64(108), np.int64(386), np.int64(664), np.int64(943)]"
+21,0,Non-Candidate,0,[]
+22,0,Non-Candidate,0,[]
+23,0,Non-Candidate,0,[]
+24,0,Non-Candidate,0,[]
+25,0,Non-Candidate,0,[]
+26,1,Candidate,8,"[np.int64(70), np.int64(193), np.int64(314), np.int64(438), np.int64(559), np.int64(683), np.int64(806), np.int64(927)]"
+27,1,Candidate,4,"[np.int64(105), np.int64(363), np.int64(622), np.int64(874)]"
+28,1,Candidate,2,"[np.int64(346), np.int64(681)]"
+29,0,Non-Candidate,0,[]
+30,1,Candidate,3,"[np.int64(236), np.int64(580), np.int64(810)]"
+31,0,Non-Candidate,0,[]
+32,0,Non-Candidate,1,[np.int64(424)]
+33,1,Candidate,4,"[np.int64(48), np.int64(389), np.int64(718), np.int64(884)]"
+34,1,Candidate,5,"[np.int64(25), np.int64(255), np.int64(483), np.int64(711), np.int64(937)]"
+35,0,Non-Candidate,0,[]
+36,0,Non-Candidate,0,[]
+37,1,Candidate,3,"[np.int64(188), np.int64(547), np.int64(888)]"
+38,0,Non-Candidate,0,[]
+39,0,Non-Candidate,0,[]
+40,1,Candidate,3,"[np.int64(78), np.int64(412), np.int64(521)]"
+41,0,Non-Candidate,1,[np.int64(307)]
+42,1,Candidate,4,"[np.int64(72), np.int64(361), np.int64(521), np.int64(664)]"
+43,1,Candidate,5,"[np.int64(184), np.int64(375), np.int64(568), np.int64(765), np.int64(958)]"
+44,1,Candidate,2,"[np.int64(372), np.int64(777)]"
+45,0,Non-Candidate,0,[]
+46,1,Candidate,4,"[np.int64(100), np.int64(325), np.int64(564), np.int64(815)]"
+47,0,Non-Candidate,0,[]
+48,1,Candidate,4,"[np.int64(19), np.int64(223), np.int64(632), np.int64(836)]"
+49,0,Non-Candidate,0,[]
+50,1,Candidate,3,"[np.int64(237), np.int64(547), np.int64(849)]"
+51,1,Candidate,8,"[np.int64(13), np.int64(137), np.int64(261), np.int64(383), np.int64(509), np.int64(632), np.int64(758), np.int64(882)]"
+52,0,Non-Candidate,1,[np.int64(442)]
+53,1,Candidate,4,"[np.int64(74), np.int64(203), np.int64(791), np.int64(897)]"
+54,0,Non-Candidate,0,[]
+55,1,Candidate,4,"[np.int64(73), np.int64(324), np.int64(564), np.int64(814)]"
+56,1,Candidate,3,"[np.int64(67), np.int64(414), np.int64(758)]"
+57,0,Non-Candidate,0,[]
+58,1,Candidate,4,"[np.int64(103), np.int64(352), np.int64(566), np.int64(801)]"
+59,1,Candidate,3,"[np.int64(243), np.int64(348), np.int64(966)]"
+60,0,Non-Candidate,1,[np.int64(266)]
+61,1,Candidate,2,"[np.int64(510), np.int64(664)]"
+62,0,Non-Candidate,1,[np.int64(315)]
+63,1,Candidate,3,"[np.int64(197), np.int64(544), np.int64(882)]"
+64,1,Candidate,3,"[np.int64(267), np.int64(560), np.int64(859)]"
+65,1,Candidate,2,"[np.int64(504), np.int64(745)]"
+66,0,Non-Candidate,1,[np.int64(831)]
+67,0,Non-Candidate,1,[np.int64(279)]
+68,1,Candidate,4,"[np.int64(48), np.int64(360), np.int64(672), np.int64(986)]"
+69,0,Non-Candidate,0,[]
+70,0,Non-Candidate,0,[]
+71,0,Non-Candidate,0,[]
+72,0,Non-Candidate,1,[np.int64(666)]
+73,1,Candidate,3,"[np.int64(164), np.int64(315), np.int64(459)]"
+74,0,Non-Candidate,0,[]
+75,1,Candidate,3,"[np.int64(101), np.int64(342), np.int64(589)]"
+76,1,Candidate,6,"[np.int64(153), np.int64(293), np.int64(437), np.int64(708), np.int64(851), np.int64(982)]"
+77,1,Candidate,2,"[np.int64(401), np.int64(815)]"
+78,1,Candidate,3,"[np.int64(197), np.int64(510), np.int64(836)]"
+79,1,Candidate,2,"[np.int64(77), np.int64(979)]"
+80,0,Non-Candidate,0,[]
+81,0,Non-Candidate,0,[]
+82,0,Non-Candidate,0,[]
+83,0,Non-Candidate,0,[]
+84,1,Candidate,2,"[np.int64(346), np.int64(731)]"
+85,1,Candidate,4,"[np.int64(204), np.int64(454), np.int64(705), np.int64(956)]"
+86,1,Candidate,3,"[np.int64(193), np.int64(480), np.int64(773)]"
+87,0,Non-Candidate,0,[]
+88,1,Candidate,4,"[np.int64(195), np.int64(456), np.int64(716), np.int64(977)]"
+89,0,Non-Candidate,0,[]
+90,0,Non-Candidate,0,[]
+91,0,Non-Candidate,0,[]
+92,0,Non-Candidate,1,[np.int64(483)]
+93,0,Non-Candidate,1,[np.int64(782)]
+94,0,Non-Candidate,0,[]
+95,1,Candidate,6,"[np.int64(74), np.int64(239), np.int64(405), np.int64(571), np.int64(736), np.int64(902)]"
+96,1,Candidate,2,"[np.int64(561), np.int64(863)]"
+97,1,Candidate,2,"[np.int64(264), np.int64(575)]"
+98,1,Candidate,2,"[np.int64(279), np.int64(955)]"
+99,0,Non-Candidate,1,[np.int64(560)]
+100,0,Non-Candidate,0,[]
+101,1,Candidate,5,"[np.int64(58), np.int64(276), np.int64(497), np.int64(718), np.int64(934)]"
+102,1,Candidate,4,"[np.int64(222), np.int64(473), np.int64(726), np.int64(966)]"
+103,0,Non-Candidate,0,[]
+104,1,Candidate,3,"[np.int64(214), np.int64(520), np.int64(827)]"
+105,1,Candidate,5,"[np.int64(160), np.int64(340), np.int64(524), np.int64(707), np.int64(890)]"
+106,1,Candidate,3,"[np.int64(276), np.int64(586), np.int64(895)]"
+107,0,Non-Candidate,1,[np.int64(360)]
+108,0,Non-Candidate,1,[np.int64(557)]
+109,1,Candidate,4,"[np.int64(48), np.int64(337), np.int64(633), np.int64(916)]"
+110,0,Non-Candidate,0,[]
+111,1,Candidate,7,"[np.int64(42), np.int64(183), np.int64(325), np.int64(467), np.int64(609), np.int64(750), np.int64(893)]"
+112,1,Candidate,5,"[np.int64(176), np.int64(361), np.int64(531), np.int64(717), np.int64(912)]"
+113,0,Non-Candidate,1,[np.int64(237)]
+114,0,Non-Candidate,0,[]
+115,1,Candidate,3,"[np.int64(120), np.int64(529), np.int64(928)]"
+116,0,Non-Candidate,0,[]
+117,0,Non-Candidate,0,[]
+118,0,Non-Candidate,0,[]
+119,1,Candidate,3,"[np.int64(58), np.int64(143), np.int64(378)]"
+120,1,Candidate,4,"[np.int64(173), np.int64(381), np.int64(592), np.int64(818)]"
+121,1,Candidate,3,"[np.int64(65), np.int64(433), np.int64(819)]"
+122,1,Candidate,3,"[np.int64(153), np.int64(469), np.int64(784)]"
+123,1,Candidate,3,"[np.int64(225), np.int64(524), np.int64(822)]"
+124,0,Non-Candidate,1,[np.int64(438)]
+125,0,Non-Candidate,0,[]
+126,0,Non-Candidate,0,[]
+127,1,Candidate,4,"[np.int64(205), np.int64(438), np.int64(651), np.int64(875)]"
+128,1,Candidate,3,"[np.int64(169), np.int64(562), np.int64(954)]"
+129,0,Non-Candidate,1,[np.int64(787)]
+130,1,Candidate,7,"[np.int64(69), np.int64(214), np.int64(356), np.int64(505), np.int64(651), np.int64(796), np.int64(941)]"
+131,1,Candidate,7,"[np.int64(85), np.int64(228), np.int64(369), np.int64(511), np.int64(660), np.int64(797), np.int64(945)]"
+132,0,Non-Candidate,0,[]
+133,1,Candidate,4,"[np.int64(85), np.int64(350), np.int64(614), np.int64(877)]"
+134,1,Candidate,5,"[np.int64(176), np.int64(391), np.int64(585), np.int64(791), np.int64(979)]"
+135,1,Candidate,3,"[np.int64(136), np.int64(404), np.int64(541)]"
+136,0,Non-Candidate,0,[]
+137,0,Non-Candidate,0,[]
+138,0,Non-Candidate,0,[]
+139,1,Candidate,3,"[np.int64(98), np.int64(477), np.int64(865)]"
+140,1,Candidate,4,"[np.int64(204), np.int64(460), np.int64(704), np.int64(959)]"
+141,1,Candidate,2,"[np.int64(355), np.int64(795)]"
+142,0,Non-Candidate,0,[]
+143,1,Candidate,3,"[np.int64(220), np.int64(574), np.int64(923)]"
+144,0,Non-Candidate,1,[np.int64(221)]
+145,1,Candidate,2,"[np.int64(418), np.int64(778)]"
+146,1,Candidate,3,"[np.int64(202), np.int64(514), np.int64(805)]"
+147,1,Candidate,4,"[np.int64(194), np.int64(425), np.int64(656), np.int64(887)]"
+148,1,Candidate,3,"[np.int64(112), np.int64(437), np.int64(777)]"
+149,0,Non-Candidate,1,[np.int64(548)]
+150,0,Non-Candidate,0,[]
+151,1,Candidate,3,"[np.int64(240), np.int64(568), np.int64(903)]"
+152,1,Candidate,3,"[np.int64(121), np.int64(496), np.int64(867)]"
+153,1,Candidate,4,"[np.int64(91), np.int64(323), np.int64(553), np.int64(785)]"
+154,0,Non-Candidate,1,[np.int64(944)]
+155,0,Non-Candidate,0,[]
+156,1,Candidate,3,"[np.int64(291), np.int64(482), np.int64(853)]"
+157,1,Candidate,6,"[np.int64(50), np.int64(196), np.int64(332), np.int64(488), np.int64(624), np.int64(915)]"
+158,0,Non-Candidate,0,[]
+159,1,Candidate,3,"[np.int64(292), np.int64(598), np.int64(905)]"
+160,0,Non-Candidate,0,[]
+161,1,Candidate,4,"[np.int64(228), np.int64(369), np.int64(501), np.int64(635)]"
+162,1,Candidate,2,"[np.int64(363), np.int64(833)]"
+163,1,Candidate,3,"[np.int64(66), np.int64(415), np.int64(762)]"
+164,0,Non-Candidate,1,[np.int64(823)]
+165,1,Candidate,6,"[np.int64(106), np.int64(248), np.int64(398), np.int64(555), np.int64(696), np.int64(852)]"
+166,1,Candidate,8,"[np.int64(111), np.int64(222), np.int64(332), np.int64(442), np.int64(553), np.int64(664), np.int64(774), np.int64(885)]"
+167,0,Non-Candidate,0,[]
+168,1,Candidate,2,"[np.int64(340), np.int64(711)]"
+169,1,Candidate,4,"[np.int64(90), np.int64(371), np.int64(792), np.int64(944)]"
+170,0,Non-Candidate,0,[]
+171,1,Candidate,4,"[np.int64(153), np.int64(426), np.int64(704), np.int64(983)]"
+172,0,Non-Candidate,0,[]
+173,0,Non-Candidate,0,[]
+174,1,Candidate,4,"[np.int64(172), np.int64(422), np.int64(671), np.int64(932)]"
+175,0,Non-Candidate,0,[]
+176,1,Candidate,3,"[np.int64(93), np.int64(224), np.int64(788)]"
+177,0,Non-Candidate,0,[]
+178,0,Non-Candidate,1,[np.int64(963)]
+179,0,Non-Candidate,1,[np.int64(175)]
+180,1,Candidate,4,"[np.int64(35), np.int64(341), np.int64(648), np.int64(957)]"
+181,0,Non-Candidate,0,[]
+182,0,Non-Candidate,0,[]
+183,1,Candidate,8,"[np.int64(20), np.int64(145), np.int64(277), np.int64(411), np.int64(539), np.int64(670), np.int64(802), np.int64(935)]"
+184,1,Candidate,3,"[np.int64(154), np.int64(462), np.int64(773)]"
+185,0,Non-Candidate,1,[np.int64(222)]
+186,1,Candidate,3,"[np.int64(253), np.int64(595), np.int64(938)]"
+187,1,Candidate,9,"[np.int64(94), np.int64(195), np.int64(297), np.int64(400), np.int64(501), np.int64(603), np.int64(706), np.int64(808), np.int64(909)]"
+188,0,Non-Candidate,0,[]
+189,1,Candidate,3,"[np.int64(141), np.int64(493), np.int64(847)]"
+190,0,Non-Candidate,0,[]
+191,1,Candidate,2,"[np.int64(7), np.int64(394)]"
+192,1,Candidate,6,"[np.int64(10), np.int64(171), np.int64(334), np.int64(496), np.int64(819), np.int64(981)]"
+193,1,Candidate,3,"[np.int64(46), np.int64(423), np.int64(799)]"
+194,1,Candidate,5,"[np.int64(122), np.int64(313), np.int64(531), np.int64(731), np.int64(929)]"
+195,1,Candidate,3,"[np.int64(84), np.int64(462), np.int64(834)]"
+196,0,Non-Candidate,0,[]
+197,1,Candidate,4,"[np.int64(221), np.int64(475), np.int64(729), np.int64(982)]"
+198,1,Candidate,5,"[np.int64(115), np.int64(319), np.int64(525), np.int64(730), np.int64(935)]"
+199,1,Candidate,4,"[np.int64(59), np.int64(358), np.int64(659), np.int64(959)]"
+200,1,Candidate,5,"[np.int64(40), np.int64(218), np.int64(395), np.int64(574), np.int64(751)]"
+201,1,Candidate,4,"[np.int64(46), np.int64(341), np.int64(635), np.int64(931)]"
+202,1,Candidate,5,"[np.int64(61), np.int64(264), np.int64(468), np.int64(667), np.int64(872)]"
+203,1,Candidate,8,"[np.int64(50), np.int64(177), np.int64(304), np.int64(431), np.int64(558), np.int64(684), np.int64(810), np.int64(937)]"
+204,0,Non-Candidate,0,[]
+205,0,Non-Candidate,0,[]
+206,0,Non-Candidate,0,[]
+207,0,Non-Candidate,0,[]
+208,0,Non-Candidate,1,[np.int64(147)]
+209,0,Non-Candidate,0,[]
+210,0,Non-Candidate,0,[]
+211,1,Candidate,3,"[np.int64(17), np.int64(368), np.int64(721)]"
+212,0,Non-Candidate,1,[np.int64(150)]
+213,0,Non-Candidate,0,[]
+214,0,Non-Candidate,0,[]
+215,0,Non-Candidate,1,[np.int64(265)]
+216,1,Candidate,3,"[np.int64(213), np.int64(565), np.int64(916)]"
+217,1,Candidate,6,"[np.int64(63), np.int64(222), np.int64(382), np.int64(541), np.int64(701), np.int64(860)]"
+218,0,Non-Candidate,0,[]
+219,0,Non-Candidate,0,[]
+220,0,Non-Candidate,0,[]
+221,0,Non-Candidate,1,[np.int64(716)]
+222,0,Non-Candidate,1,[np.int64(54)]
+223,0,Non-Candidate,0,[]
+224,1,Candidate,2,"[np.int64(32), np.int64(324)]"
+225,1,Candidate,2,"[np.int64(274), np.int64(668)]"
+226,0,Non-Candidate,0,[]
+227,0,Non-Candidate,0,[]
+228,0,Non-Candidate,1,[np.int64(263)]
+229,1,Candidate,2,"[np.int64(271), np.int64(658)]"
+230,0,Non-Candidate,0,[]
+231,1,Candidate,3,"[np.int64(225), np.int64(487), np.int64(747)]"
+232,0,Non-Candidate,0,[]
+233,0,Non-Candidate,0,[]
+234,1,Candidate,6,"[np.int64(101), np.int64(251), np.int64(401), np.int64(554), np.int64(704), np.int64(861)]"
+235,1,Candidate,4,"[np.int64(175), np.int64(404), np.int64(639), np.int64(877)]"
+236,0,Non-Candidate,0,[]
+237,1,Candidate,4,"[np.int64(28), np.int64(304), np.int64(579), np.int64(857)]"
+238,0,Non-Candidate,0,[]
+239,1,Candidate,2,"[np.int64(512), np.int64(927)]"
+240,1,Candidate,4,"[np.int64(38), np.int64(296), np.int64(554), np.int64(811)]"
+241,1,Candidate,3,"[np.int64(11), np.int64(358), np.int64(700)]"
+242,0,Non-Candidate,0,[]
+243,0,Non-Candidate,1,[np.int64(911)]
+244,1,Candidate,2,"[np.int64(71), np.int64(445)]"
+245,1,Candidate,4,"[np.int64(35), np.int64(295), np.int64(540), np.int64(793)]"
+246,0,Non-Candidate,0,[]
+247,1,Candidate,7,"[np.int64(27), np.int64(181), np.int64(334), np.int64(488), np.int64(642), np.int64(795), np.int64(950)]"
+248,1,Candidate,3,"[np.int64(141), np.int64(473), np.int64(792)]"
+249,1,Candidate,6,"[np.int64(149), np.int64(309), np.int64(468), np.int64(630), np.int64(790), np.int64(951)]"
+250,1,Candidate,3,"[np.int64(186), np.int64(573), np.int64(964)]"
+251,0,Non-Candidate,0,[]
+252,1,Candidate,4,"[np.int64(87), np.int64(376), np.int64(665), np.int64(954)]"
+253,1,Candidate,2,"[np.int64(344), np.int64(884)]"
+254,1,Candidate,4,"[np.int64(41), np.int64(404), np.int64(580), np.int64(768)]"
+255,0,Non-Candidate,0,[]
+256,1,Candidate,3,"[np.int64(16), np.int64(392), np.int64(772)]"
+257,0,Non-Candidate,0,[]
+258,0,Non-Candidate,0,[]
+259,0,Non-Candidate,0,[]
+260,1,Candidate,3,"[np.int64(54), np.int64(452), np.int64(840)]"
+261,1,Candidate,3,"[np.int64(208), np.int64(479), np.int64(761)]"
+262,0,Non-Candidate,1,[np.int64(679)]
+263,0,Non-Candidate,1,[np.int64(808)]
+264,0,Non-Candidate,0,[]
+265,1,Candidate,6,"[np.int64(189), np.int64(306), np.int64(433), np.int64(551), np.int64(671), np.int64(918)]"
+266,0,Non-Candidate,1,[np.int64(779)]
+267,1,Candidate,3,"[np.int64(253), np.int64(570), np.int64(888)]"
+268,1,Candidate,5,"[np.int64(43), np.int64(236), np.int64(437), np.int64(628), np.int64(820)]"
+269,1,Candidate,4,"[np.int64(103), np.int64(339), np.int64(575), np.int64(810)]"
+270,0,Non-Candidate,0,[]
+271,0,Non-Candidate,0,[]
+272,0,Non-Candidate,0,[]
+273,0,Non-Candidate,0,[]
+274,0,Non-Candidate,0,[]
+275,1,Candidate,2,"[np.int64(126), np.int64(654)]"
+276,0,Non-Candidate,0,[]
+277,0,Non-Candidate,0,[]
+278,0,Non-Candidate,1,[np.int64(130)]
+279,0,Non-Candidate,0,[]
+280,1,Candidate,5,"[np.int64(131), np.int64(318), np.int64(508), np.int64(700), np.int64(889)]"
+281,0,Non-Candidate,0,[]
+282,0,Non-Candidate,0,[]
+283,0,Non-Candidate,1,[np.int64(153)]
+284,1,Candidate,7,"[np.int64(164), np.int64(301), np.int64(438), np.int64(574), np.int64(711), np.int64(849), np.int64(985)]"
+285,0,Non-Candidate,0,[]
+286,1,Candidate,3,"[np.int64(728), np.int64(866), np.int64(992)]"
+287,0,Non-Candidate,0,[]
+288,1,Candidate,6,"[np.int64(18), np.int64(272), np.int64(390), np.int64(514), np.int64(645), np.int64(886)]"
+289,0,Non-Candidate,1,[np.int64(450)]
+290,1,Candidate,2,"[np.int64(286), np.int64(784)]"
+291,1,Candidate,5,"[np.int64(79), np.int64(272), np.int64(463), np.int64(646), np.int64(854)]"
+292,0,Non-Candidate,1,[np.int64(874)]
+293,1,Candidate,3,"[np.int64(232), np.int64(547), np.int64(854)]"
+294,0,Non-Candidate,0,[]
+295,1,Candidate,3,"[np.int64(32), np.int64(687), np.int64(977)]"
+296,1,Candidate,4,"[np.int64(117), np.int64(374), np.int64(636), np.int64(894)]"
+297,0,Non-Candidate,0,[]
+298,1,Candidate,3,"[np.int64(504), np.int64(621), np.int64(969)]"
+299,1,Candidate,5,"[np.int64(109), np.int64(312), np.int64(511), np.int64(706), np.int64(899)]"
+300,1,Candidate,2,"[np.int64(155), np.int64(541)]"
+301,0,Non-Candidate,0,[]
+302,1,Candidate,3,"[np.int64(45), np.int64(422), np.int64(815)]"
+303,1,Candidate,2,"[np.int64(524), np.int64(925)]"
+304,1,Candidate,3,"[np.int64(265), np.int64(561), np.int64(856)]"
+305,1,Candidate,6,"[np.int64(67), np.int64(329), np.int64(460), np.int64(595), np.int64(723), np.int64(860)]"
+306,1,Candidate,2,"[np.int64(606), np.int64(882)]"
+307,0,Non-Candidate,0,[]
+308,0,Non-Candidate,0,[]
+309,1,Candidate,4,"[np.int64(53), np.int64(179), np.int64(608), np.int64(872)]"
+310,1,Candidate,3,"[np.int64(149), np.int64(542), np.int64(938)]"
+311,1,Candidate,3,"[np.int64(307), np.int64(606), np.int64(918)]"
+312,0,Non-Candidate,1,[np.int64(890)]
+313,0,Non-Candidate,0,[]
+314,0,Non-Candidate,0,[]
+315,0,Non-Candidate,0,[]
+316,0,Non-Candidate,0,[]
+317,0,Non-Candidate,0,[]
+318,1,Candidate,7,"[np.int64(125), np.int64(257), np.int64(389), np.int64(521), np.int64(653), np.int64(784), np.int64(916)]"
+319,1,Candidate,6,"[np.int64(68), np.int64(225), np.int64(391), np.int64(555), np.int64(721), np.int64(893)]"
+320,0,Non-Candidate,0,[]
+321,1,Candidate,3,"[np.int64(226), np.int64(524), np.int64(823)]"
+322,0,Non-Candidate,0,[]
+323,0,Non-Candidate,1,[np.int64(540)]
+324,0,Non-Candidate,1,[np.int64(676)]
+325,0,Non-Candidate,0,[]
+326,1,Candidate,3,"[np.int64(267), np.int64(589), np.int64(898)]"
+327,0,Non-Candidate,1,[np.int64(936)]
+328,1,Candidate,5,"[np.int64(383), np.int64(518), np.int64(648), np.int64(777), np.int64(907)]"
+329,0,Non-Candidate,0,[]
+330,1,Candidate,2,"[np.int64(234), np.int64(782)]"
+331,0,Non-Candidate,0,[]
+332,1,Candidate,4,"[np.int64(75), np.int64(334), np.int64(594), np.int64(853)]"
+333,1,Candidate,3,"[np.int64(281), np.int64(587), np.int64(894)]"
+334,0,Non-Candidate,1,[np.int64(113)]
+335,1,Candidate,2,"[np.int64(245), np.int64(640)]"
+336,0,Non-Candidate,0,[]
+337,1,Candidate,2,"[np.int64(377), np.int64(768)]"
+338,1,Candidate,3,"[np.int64(165), np.int64(464), np.int64(768)]"
+339,0,Non-Candidate,0,[]
+340,0,Non-Candidate,0,[]
+341,0,Non-Candidate,0,[]
+342,0,Non-Candidate,1,[np.int64(141)]
+343,0,Non-Candidate,0,[]
+344,1,Candidate,2,"[np.int64(233), np.int64(458)]"
+345,1,Candidate,2,"[np.int64(461), np.int64(968)]"
+346,1,Candidate,3,"[np.int64(91), np.int64(456), np.int64(815)]"
+347,0,Non-Candidate,0,[]
+348,0,Non-Candidate,1,[np.int64(781)]
+349,0,Non-Candidate,0,[]
+350,0,Non-Candidate,0,[]
+351,0,Non-Candidate,1,[np.int64(258)]
+352,1,Candidate,5,"[np.int64(132), np.int64(346), np.int64(561), np.int64(776), np.int64(990)]"
+353,1,Candidate,5,"[np.int64(266), np.int64(387), np.int64(499), np.int64(631), np.int64(741)]"
+354,1,Candidate,5,"[np.int64(50), np.int64(269), np.int64(487), np.int64(706), np.int64(926)]"
+355,0,Non-Candidate,0,[]
+356,0,Non-Candidate,0,[]
+357,0,Non-Candidate,0,[]
+358,1,Candidate,3,"[np.int64(121), np.int64(443), np.int64(763)]"
+359,1,Candidate,3,"[np.int64(132), np.int64(505), np.int64(877)]"
+360,0,Non-Candidate,0,[]
+361,0,Non-Candidate,0,[]
+362,1,Candidate,4,"[np.int64(100), np.int64(396), np.int64(687), np.int64(974)]"
+363,0,Non-Candidate,0,[]
+364,0,Non-Candidate,0,[]
+365,0,Non-Candidate,1,[np.int64(318)]
+366,0,Non-Candidate,0,[]
+367,0,Non-Candidate,0,[]
+368,1,Candidate,2,"[np.int64(790), np.int64(914)]"
+369,0,Non-Candidate,1,[np.int64(727)]
+370,1,Candidate,3,"[np.int64(107), np.int64(420), np.int64(733)]"
+371,0,Non-Candidate,0,[]
+372,1,Candidate,6,"[np.int64(57), np.int64(217), np.int64(372), np.int64(529), np.int64(684), np.int64(846)]"
+373,0,Non-Candidate,0,[]
+374,1,Candidate,4,"[np.int64(209), np.int64(443), np.int64(687), np.int64(932)]"
+375,1,Candidate,6,"[np.int64(13), np.int64(521), np.int64(617), np.int64(724), np.int64(825), np.int64(928)]"
+376,0,Non-Candidate,0,[]
+377,1,Candidate,3,"[np.int64(255), np.int64(571), np.int64(890)]"
+378,0,Non-Candidate,1,[np.int64(328)]
+379,0,Non-Candidate,1,[np.int64(121)]
+380,0,Non-Candidate,1,[np.int64(967)]
+381,0,Non-Candidate,1,[np.int64(550)]
+382,1,Candidate,4,"[np.int64(166), np.int64(420), np.int64(670), np.int64(919)]"
+383,0,Non-Candidate,0,[]
+384,0,Non-Candidate,0,[]
+385,1,Candidate,2,"[np.int64(328), np.int64(692)]"
+386,1,Candidate,3,"[np.int64(19), np.int64(418), np.int64(817)]"
+387,0,Non-Candidate,0,[]
+388,1,Candidate,6,"[np.int64(35), np.int64(199), np.int64(361), np.int64(524), np.int64(687), np.int64(850)]"
+389,1,Candidate,2,"[np.int64(77), np.int64(973)]"
+390,0,Non-Candidate,0,[]
+391,1,Candidate,4,"[np.int64(93), np.int64(353), np.int64(597), np.int64(855)]"
+392,1,Candidate,2,"[np.int64(318), np.int64(685)]"
+393,1,Candidate,5,"[np.int64(152), np.int64(346), np.int64(535), np.int64(725), np.int64(908)]"
+394,1,Candidate,3,"[np.int64(248), np.int64(538), np.int64(844)]"
+395,0,Non-Candidate,0,[]
+396,0,Non-Candidate,0,[]
+397,0,Non-Candidate,1,[np.int64(84)]
+398,0,Non-Candidate,1,[np.int64(476)]
+399,1,Candidate,2,"[np.int64(53), np.int64(388)]"
+400,1,Candidate,3,"[np.int64(181), np.int64(478), np.int64(772)]"
+401,1,Candidate,3,"[np.int64(114), np.int64(579), np.int64(747)]"
+402,1,Candidate,3,"[np.int64(260), np.int64(527), np.int64(787)]"
+403,1,Candidate,3,"[np.int64(236), np.int64(525), np.int64(816)]"
+404,1,Candidate,3,"[np.int64(59), np.int64(422), np.int64(786)]"
+405,0,Non-Candidate,1,[np.int64(809)]
+406,1,Candidate,7,"[np.int64(48), np.int64(176), np.int64(317), np.int64(455), np.int64(598), np.int64(732), np.int64(880)]"
+407,1,Candidate,5,"[np.int64(298), np.int64(455), np.int64(613), np.int64(776), np.int64(937)]"
+408,1,Candidate,3,"[np.int64(21), np.int64(398), np.int64(776)]"
+409,1,Candidate,2,"[np.int64(328), np.int64(726)]"
+410,1,Candidate,3,"[np.int64(155), np.int64(509), np.int64(861)]"
+411,0,Non-Candidate,1,[np.int64(917)]
+412,0,Non-Candidate,0,[]
+413,1,Candidate,5,"[np.int64(190), np.int64(376), np.int64(558), np.int64(737), np.int64(917)]"
+414,0,Non-Candidate,0,[]
+415,1,Candidate,5,"[np.int64(167), np.int64(362), np.int64(544), np.int64(727), np.int64(909)]"
+416,0,Non-Candidate,0,[]
+417,0,Non-Candidate,1,[np.int64(247)]
+418,1,Candidate,3,"[np.int64(297), np.int64(629), np.int64(958)]"
+419,0,Non-Candidate,0,[]
+420,1,Candidate,3,"[np.int64(33), np.int64(412), np.int64(795)]"
+421,1,Candidate,5,"[np.int64(330), np.int64(450), np.int64(587), np.int64(840), np.int64(973)]"
+422,1,Candidate,4,"[np.int64(159), np.int64(375), np.int64(578), np.int64(801)]"
+423,0,Non-Candidate,0,[]
+424,1,Candidate,3,"[np.int64(218), np.int64(535), np.int64(844)]"
+425,0,Non-Candidate,0,[]
+426,0,Non-Candidate,1,[np.int64(559)]
+427,0,Non-Candidate,0,[]
+428,0,Non-Candidate,0,[]
+429,0,Non-Candidate,0,[]
+430,0,Non-Candidate,1,[np.int64(794)]
+431,0,Non-Candidate,0,[]
+432,0,Non-Candidate,0,[]
+433,1,Candidate,2,"[np.int64(330), np.int64(638)]"
+434,0,Non-Candidate,0,[]
+435,0,Non-Candidate,0,[]
+436,1,Candidate,3,"[np.int64(71), np.int64(410), np.int64(748)]"
+437,0,Non-Candidate,0,[]
+438,0,Non-Candidate,0,[]
+439,1,Candidate,6,"[np.int64(121), np.int64(292), np.int64(440), np.int64(602), np.int64(773), np.int64(933)]"
+440,1,Candidate,4,"[np.int64(434), np.int64(580), np.int64(731), np.int64(892)]"
+441,1,Candidate,2,"[np.int64(65), np.int64(855)]"
+442,1,Candidate,3,"[np.int64(52), np.int64(564), np.int64(823)]"
+443,0,Non-Candidate,1,[np.int64(736)]
+444,1,Candidate,4,"[np.int64(199), np.int64(411), np.int64(621), np.int64(831)]"
+445,1,Candidate,3,"[np.int64(299), np.int64(618), np.int64(932)]"
+446,1,Candidate,3,"[np.int64(237), np.int64(595), np.int64(940)]"
+447,1,Candidate,2,"[np.int64(629), np.int64(728)]"
+448,1,Candidate,3,"[np.int64(200), np.int64(528), np.int64(855)]"
+449,1,Candidate,4,"[np.int64(131), np.int64(367), np.int64(608), np.int64(842)]"
+450,1,Candidate,3,"[np.int64(153), np.int64(484), np.int64(814)]"
+451,0,Non-Candidate,1,[np.int64(403)]
+452,0,Non-Candidate,0,[]
+453,0,Non-Candidate,1,[np.int64(510)]
+454,1,Candidate,2,"[np.int64(605), np.int64(804)]"
+455,1,Candidate,4,"[np.int64(89), np.int64(237), np.int64(536), np.int64(981)]"
+456,0,Non-Candidate,0,[]
+457,1,Candidate,4,"[np.int64(38), np.int64(318), np.int64(589), np.int64(853)]"
+458,0,Non-Candidate,0,[]
+459,1,Candidate,4,"[np.int64(197), np.int64(396), np.int64(600), np.int64(801)]"
+460,1,Candidate,5,"[np.int64(42), np.int64(246), np.int64(450), np.int64(665), np.int64(869)]"
+461,1,Candidate,4,"[np.int64(95), np.int64(349), np.int64(574), np.int64(813)]"
+462,1,Candidate,2,"[np.int64(580), np.int64(892)]"
+463,0,Non-Candidate,1,[np.int64(9)]
+464,1,Candidate,6,"[np.int64(125), np.int64(272), np.int64(420), np.int64(567), np.int64(711), np.int64(861)]"
+465,0,Non-Candidate,0,[]
+466,0,Non-Candidate,0,[]
+467,0,Non-Candidate,0,[]
+468,0,Non-Candidate,1,[np.int64(208)]
+469,0,Non-Candidate,0,[]
+470,1,Candidate,2,"[np.int64(49), np.int64(933)]"
+471,1,Candidate,6,"[np.int64(92), np.int64(254), np.int64(406), np.int64(573), np.int64(733), np.int64(888)]"
+472,1,Candidate,6,"[np.int64(106), np.int64(203), np.int64(510), np.int64(608), np.int64(711), np.int64(809)]"
+473,0,Non-Candidate,0,[]
+474,0,Non-Candidate,0,[]
+475,0,Non-Candidate,0,[]
+476,1,Candidate,3,"[np.int64(267), np.int64(540), np.int64(829)]"
+477,0,Non-Candidate,0,[]
+478,0,Non-Candidate,0,[]
+479,1,Candidate,4,"[np.int64(108), np.int64(397), np.int64(687), np.int64(975)]"
+480,1,Candidate,3,"[np.int64(117), np.int64(517), np.int64(902)]"
+481,0,Non-Candidate,0,[]
+482,1,Candidate,5,"[np.int64(101), np.int64(515), np.int64(626), np.int64(830), np.int64(940)]"
+483,1,Candidate,3,"[np.int64(223), np.int64(479), np.int64(737)]"
+484,1,Candidate,6,"[np.int64(125), np.int64(288), np.int64(446), np.int64(609), np.int64(772), np.int64(940)]"
+485,0,Non-Candidate,0,[]
+486,0,Non-Candidate,1,[np.int64(614)]
+487,0,Non-Candidate,0,[]
+488,0,Non-Candidate,1,[np.int64(760)]
+489,1,Candidate,4,"[np.int64(82), np.int64(333), np.int64(582), np.int64(831)]"
+490,1,Candidate,3,"[np.int64(269), np.int64(449), np.int64(741)]"
+491,1,Candidate,2,"[np.int64(301), np.int64(664)]"
+492,1,Candidate,3,"[np.int64(271), np.int64(506), np.int64(757)]"
+493,1,Candidate,2,"[np.int64(151), np.int64(885)]"
+494,1,Candidate,2,"[np.int64(361), np.int64(678)]"
+495,0,Non-Candidate,0,[]
+496,1,Candidate,4,"[np.int64(169), np.int64(399), np.int64(627), np.int64(859)]"
+497,1,Candidate,3,"[np.int64(10), np.int64(357), np.int64(702)]"
+498,0,Non-Candidate,0,[]
+499,1,Candidate,3,"[np.int64(226), np.int64(608), np.int64(982)]"
